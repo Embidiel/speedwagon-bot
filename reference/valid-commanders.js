@@ -1,0 +1,7 @@
+const BENEDICT_LUTAB = '296623600763535361';
+const SPEEDWAGON = '693410716626976788';
+
+module.exports = {
+  [BENEDICT_LUTAB] : true,
+  [SPEEDWAGON] : true
+};
